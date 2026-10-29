@@ -64,5 +64,45 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-trendsapi-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://trendsapi.ai/
+Trends API provides a single REST endpoint delivering trend data aggregated from 49 platforms including Google, TikTok, Amazon, Reddit, YouTube, Steam, npm and more. The service normalizes scores on a 0‑100 scale, offers 100 free requests per month with no credit‑card required, and supports JSON responses for easy integration into applications, dashboards, and analytics pipelines. It aims to simplify access to up‑to‑date popularity metrics across major online services for developers, marketers, and data scientists.
+
+**Areas:** Company · Data · Trends · Analytics · API · Marketing
+
+## trendsapi-ai on APIs.io
+
+Everything profiled for trendsapi-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/trendsapi-ai/](https://apis.io/providers/trendsapi-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- trendsapi-ai Trends API — Trend data operations
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://trendsapi.ai/)
+- [Documentation](https://trendsapi.ai/docs)
+- [Getting started](https://trendsapi.ai/docs/mcp)
+- [API reference](https://trendsapi.ai/openapi.json)
+- [Pricing](https://trendsapi.ai/pricing)
+- [Blog](https://trendsapi.ai/blog)
+- [Terms of service](https://trendsapi.ai/terms)
+- [Privacy policy](https://trendsapi.ai/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/trendsapi-ai/](https://apis.io/providers/trendsapi-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for trendsapi-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/trendsapi-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
