@@ -74,9 +74,65 @@ Everything profiled for trendsapi-ai is published on APIs.io rather than in this
 
 ### APIs (1)
 
-- trendsapi-ai Trends API — Trend data operations
+- [trendsapi-ai Trends API](https://apis.io/apis/trendsapi-ai/trendsapi-ai-trends-api/) — Trend data operations
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Trendsapi Ai Agentic Access](https://apis.io/agentic-access/trendsapi-ai/trendsapi-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetContextRequest](https://apis.io/schemas/trendsapi-ai/trendsapi-ai-get-context-request/)
+- [GetGrowthRequest](https://apis.io/schemas/trendsapi-ai/trendsapi-ai-get-growth-request/)
+- [GetTimeSeriesRequest](https://apis.io/schemas/trendsapi-ai/trendsapi-ai-get-time-series-request/)
+- [GetTopPostsRequest](https://apis.io/schemas/trendsapi-ai/trendsapi-ai-get-top-posts-request/)
+- [GetTopTrendsRequest](https://apis.io/schemas/trendsapi-ai/trendsapi-ai-get-top-trends-request/)
+- [TopTrendsResponse](https://apis.io/schemas/trendsapi-ai/trendsapi-ai-top-trends-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Trendsapi Ai Context](https://apis.io/jsonld/trendsapi-ai/trendsapi-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [trendsapi-ai API Rules](https://apis.io/rules/trendsapi-ai/trendsapi-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Trendsapi Ai Authentication](https://apis.io/security/trendsapi-ai/trendsapi-ai-authentication/)
+- [Trendsapi Ai Domain Security](https://apis.io/security/trendsapi-ai/trendsapi-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Trendsapi Ai Scopes](https://apis.io/scopes/trendsapi-ai/trendsapi-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Trendsapi Ai Plans Pricing](https://apis.io/plans/trendsapi-ai/trendsapi-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Trendsapi Ai Rate Limits](https://apis.io/rate-limits/trendsapi-ai/trendsapi-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -93,7 +149,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/trendsapi-ai/](https://apis.io/providers/trendsapi-ai/).
+**Kin Score 58.8** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.7 |
+| Contract quality | 63.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 60.0 |
+
+**Agent readiness 57.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/trendsapi-ai/](https://apis.io/providers/trendsapi-ai/).
 
 ## How this profile is made
 
